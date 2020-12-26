@@ -1,2 +1,2 @@
 public java file
-new line added
+changed the linenew line added
